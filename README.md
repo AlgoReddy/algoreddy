@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋, I'm Yeswanth Reddy  </h2>
-<h3 align="left">💬 "I write bugs. Then I fix them. Then I smile."</h3>
+ ### Hi 👋, I'm Yeswanth Reddy  
+ #### 💬 "I write bugs. Then I fix them. Then I smile."
 
-<p align="left">
+<!--<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6DB33F&center=true&width=435&lines=Java+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%92%AA;HTML+%7C+CSS+%7C+JS+%F0%9F%92%BB;Learning+Daily+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+</p> -->
 
 
 
@@ -30,17 +30,14 @@
 
 
 
-
-
+ 
 
 
 
 
 
  
-[![](https://visitcount.itsvg.in/api?id=algoreddy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
 ---
 
 <p align="center">
