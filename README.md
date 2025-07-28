@@ -14,7 +14,6 @@
 🛠️ #learninginpublic in my [🧠 Dev Journal ](www.linkedin.com/in/algoreddy)<br/>
 📫 Reach me: [helloyash99@gmail.com](mailto:helloyash99@gmail.com) <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoreddy&theme=dark&show_icons=true)
 
 ---
 ## 🌐 Socials:
@@ -39,6 +38,8 @@
  
  
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoreddy&theme=dark&show_icons=true)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
